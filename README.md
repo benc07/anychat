@@ -11,6 +11,7 @@ Features:
 - Safe & Private: No personal information required.
 - Real-Time Messaging: Instant conversations with users around the world.
 - Simple & Intuitive: Focus on chatting, not complicated settings.
+- Cross-platform for Android and iOS
 
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/5a92022d-22e5-42b6-bb32-6cd20b8e4b5b" />
 
